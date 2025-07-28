@@ -1,0 +1,27 @@
+{
+  "name": "react-og",
+  "version": "1.0.0",
+  "description": "this is Namaste React by Akshya Saini",
+  "keywords": [],
+  "homepage": "https://github.com/ManojSHub/React-OG#readme",
+  "bugs": {
+    "url": "https://github.com/ManojSHub/React-OG/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManojSHub/React-OG.git"
+  },
+  "license": "ISC",
+  "author": "Manoj Kumaran",
+  "type": "commonjs",
+  "scripts": {
+    "test": "just"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
